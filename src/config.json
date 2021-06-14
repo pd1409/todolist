@@ -1,0 +1,6 @@
+{
+    "filters": [
+        "All", "Active", "Completed", "Archive"
+    ],
+    "API_KEY": ""
+}
